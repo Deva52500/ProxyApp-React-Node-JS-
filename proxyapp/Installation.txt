@@ -1,0 +1,9 @@
+1. Install dependencies:
+
+npm install --save
+
+2.Run application within the directory server/ , type:
+
+node server.js
+
+3. Access to website: http://localhost:5020

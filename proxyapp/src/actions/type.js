@@ -1,0 +1,2 @@
+export const UPDATE_SAMPLE_DATA = 'UPDATE_SAMPLE_DATA'
+export const TEST_URL_INFO='TEST_URL_INFO'
